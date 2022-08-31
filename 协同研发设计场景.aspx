@@ -188,7 +188,7 @@
            background-size: 100% 100%;
            position: absolute;
            margin-top: 402px;
-           margin-left: 375px;
+           margin-left: 400px;
            width: 142px;
            height: 135px;
 
@@ -207,10 +207,10 @@ opacity: 0.2;
             background: url(image/newimg/知识.png) no-repeat center center;
             background-size: 100% 100%;
             position: absolute;
-margin-top: 654px;
-            margin-left: 395px;
-            width: 102px;
-            height: 103px;
+margin-top: 638px;
+            margin-left: 400px;
+            width: 142px;
+            height: 135px;
         }
         .options3 {
             background: url(image/newimg/矩形2.png) no-repeat center center;
@@ -227,7 +227,7 @@ opacity: 0.2;
             background-size: 100% 100%;
             position: absolute;
             margin-top: 437px;
-            margin-left: 1036px;
+            margin-left: 1056px;
             width: 104px;
             height: 60px;
         }
@@ -245,10 +245,11 @@ opacity: 0.2;
             background: url(image/newimg/知识.png) no-repeat center center;
             background-size: 100% 100%;
             position: absolute;
-            margin-top: 651px;
+
             margin-left: 1038px;
-            width: 103px;
-            height: 105px;
+       margin-top: 638px;
+                    width: 142px;
+                    height: 135px;
         }
         .tips1 {
                 color: white;
